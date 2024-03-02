@@ -23,3 +23,8 @@ Some screenshots:
 Where to find your profile folder:
 
 ![Screenshot 2024-03-02 151726](https://github.com/TuNitrous/floorp-gx-fixed/assets/106462108/4f000fc5-127e-4668-8bc4-96d4649d5f82)
+
+
+Here is the place you paste the "chrome" folder and "user.js" file
+
+![Screenshot 2024-03-02 152512](https://github.com/TuNitrous/floorp-gx-fixed/assets/106462108/c260012b-56b6-4c49-b26c-92a07df006a2)
