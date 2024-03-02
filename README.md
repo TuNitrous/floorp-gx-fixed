@@ -3,7 +3,7 @@
 
  Steps to configure the theme:
 
-   Download "chrome" folder and "user.js" file
+   Download this repository and unzip the file
    Copy the "chrome" folder and the "user.js" file into your Firefox or Floorp profile directory.
    Install and use a compatible theme (Nord theme: https://addons.mozilla.org/en-US/firefox/addon/nord-firefox/).
    Restart the browser.
