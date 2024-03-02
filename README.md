@@ -1,5 +1,5 @@
 # floorp-gx-fixed
- Fixed Floorp GX and Nord theme. Original from Godiesc
+ Fixed Floorp GX and Nord theme. Original from Godiesc: https://github.com/Godiesc/floorp-gx
 
  Steps to configure the theme:
 
