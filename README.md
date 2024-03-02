@@ -10,4 +10,4 @@
 
    To find out the location of your profile directory go to about:support or about:profiles.
  
- Of course can change your browser color by click "components/ogx_root-personal.css" on "userContent.css" file
+ Of course you can change your browser color by click "components/ogx_root-personal.css" on "userContent.css" file
